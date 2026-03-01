@@ -1,12 +1,17 @@
 Only rule for FAQs.txt is it should be in following format:
 
 Q: Question
+
 A: Answer
 
-Q: Question
-A: Answer
 
 Q: Question
+
+A: Answer
+
+
+Q: Question
+
 A: Answer
 
 
